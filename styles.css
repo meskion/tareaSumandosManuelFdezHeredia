@@ -1,0 +1,26 @@
+h3{
+  color: gray;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+p{
+  font-family: monospace;
+}
+#calcButton{
+  font-family: 'Times New Roman', Times, serif;
+}
+.calcContainer{
+  width: 50%;
+  padding: 2%;
+  background-color:rgb(244, 244, 244);
+  border-style: solid;
+  border-radius: 3mm;
+  border-color: gray;
+  -webkit-box-shadow: 0px 0px 18px 10px rgba(117,117,117,0.81); 
+box-shadow: 0px 0px 18px 10px rgba(117,117,117,0.81);
+}
+
+
+#resText{
+  color: green;
+}
